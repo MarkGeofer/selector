@@ -1,0 +1,48 @@
+body{
+height: 100vh;
+background-color: rgb(31, 46, 78);
+}
+
+h1{
+  background-color: rgb(75, 105, 122);
+  color: aliceblue;
+  text-align: center;
+}
+
+nav{
+ height: 40px;
+   background-color: rgb(14, 22, 48);
+
+}
+ul{
+list-style-type: none;
+text-align: center;
+justify-content: center;
+border-bottom: solid silver 2px;
+padding-bottom: 5px;
+padding-top: 5px;
+font-size: 18px;
+}
+
+li{
+display: inline;
+
+
+}
+
+a{
+   text-decoration: none;
+   color: aliceblue;
+}
+
+.box{
+background-color: rgb(121, 121, 121);
+padding: 20px;
+
+}
+
+.box p{
+color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
